@@ -19,6 +19,7 @@
         "title": "Keeping the dream alive by traveling the world.",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
+        "isFavorite": true,
         "image": "images/posts/post-id-03.png"
       },
       {
@@ -26,6 +27,7 @@
         "title": "Keeping the dream alive by traveling the world",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
+        "isFavorite": false,
         "image": "images/posts/post-id-01.png"
       },
       {
@@ -33,6 +35,7 @@
         "title": "Keeping the dream alive by traveling the world.",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
+             "isFavorite": false,
         "image": "images/posts/post-id-02.png"
       },
       {
@@ -40,6 +43,7 @@
         "title": "Keeping the dream alive by traveling the world.",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
+             "isFavorite": false,
         "image": "images/posts/post-id-03.png"
       }
       
