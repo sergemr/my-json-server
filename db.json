@@ -19,28 +19,28 @@
       "title": "Keeping the dream alive by traveling the world.",
       "content": "Integrate the latest technologies with an innovative platform",
       "date": "May 02",
-      "image": "/posts/post-id-03.png"
+      "image": "images/posts/post-id-03.png"
     },
     {
       "id": 4,
       "title": "Keeping the dream alive by traveling the world",
       "content": "Integrate the latest technologies with an innovative platform",
       "date": "May 02",
-      "image": "/posts/post-id-01.png",
+      "image": "images/posts/post-id-01.png",
     },
     {
       "id": 5,
       "title": "Keeping the dream alive by traveling the world.",
       "content": "Integrate the latest technologies with an innovative platform",
       "date": "May 02",
-      "image": "/posts/post-id-02.png",   
+      "image": "images/posts/post-id-02.png",   
     },
     {
       "id": 6,
       "title": "Keeping the dream alive by traveling the world.",
       "content": "Integrate the latest technologies with an innovative platform",
       "date": "May 02",
-      "image": "/posts/post-id-03.png",
+      "image": "images/posts/post-id-03.png",
     }
     
   ],
