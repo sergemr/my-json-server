@@ -47,6 +47,14 @@
         "date": "May 02",
         "isFavorite": false,
         "image": "images/posts/post-id-03.png"
+      },
+         {
+        "id": 7,
+        "title": "Testing Title.",
+        "content": "Integrate the latest technologies with an innovative platform",
+        "date": "May 02",
+        "isFavorite": false,
+        "image": "images/posts/post-id-03.png"
       }
       
     ],
