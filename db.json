@@ -3,6 +3,7 @@
       {
         "id": 1,
         "title": "Keeping the dream alive by traveling the world.",
+        "subtitle":"As part of our ongoing effort to enhance the traveler journey, we’re proud to partner with Portland International Airport (PDX) on the launch of a pilot program designed to shorten rider wait times at pickup.",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
         "author": "ALIVE COOPER",
@@ -14,6 +15,7 @@
       {
         "id": 2,
         "title": "Keeping the dream alive by traveling the world.",
+        "subtitle":"As part of our ongoing effort to enhance the traveler journey, we’re proud to partner with Portland International Airport (PDX) on the launch of a pilot program designed to shorten rider wait times at pickup.",          
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
         "author": "ALIVE COOPER",
@@ -25,6 +27,7 @@
       {
         "id": 3,
         "title": "Keeping the dream alive by traveling the world.",
+                  "subtitle":"As part of our ongoing effort to enhance the traveler journey, we’re proud to partner with Portland International Airport (PDX) on the launch of a pilot program designed to shorten rider wait times at pickup.",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
         "author": "ALIVE COOPER",
@@ -35,7 +38,8 @@
       },
       {
         "id": 4,
-        "title": "Keeping the dream alive by traveling the world",
+        "title": "Should I work remotely or will it put a strain on my long-term career?",
+                "subtitle":"As part of our ongoing effort to enhance the traveler journey, we’re proud to partner with Portland International Airport (PDX) on the launch of a pilot program designed to shorten rider wait times at pickup.",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
         "isFavorite": false,
@@ -46,6 +50,7 @@
       {
         "id": 5,
         "title": "Keeping the dream alive by traveling the world.",
+                "subtitle":"As part of our ongoing effort to enhance the traveler journey, we’re proud to partner with Portland International Airport (PDX) on the launch of a pilot program designed to shorten rider wait times at pickup.",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
         "isFavorite": false,
@@ -55,8 +60,9 @@
       },
       {
         "id": 6,
-        "title": "Keeping the dream alive by traveling the world.",
-        "content": "Integrate the latest technologies with an innovative platform",
+        "title": "Should I work remotely or will it put a strain on my long-term career?",
+         "subtitle":"As part of our ongoing effort to enhance the traveler journey, we’re proud to partner with Portland International Airport (PDX) on the launch of a pilot program designed to shorten rider wait times at pickup.",
+         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
         "author": "ALIVE COOPER",
         "isFavorite": false,
@@ -67,6 +73,7 @@
          {
         "id": 7,
         "title": "Testing Title.",
+        "subtitle":"As part of our ongoing effort to enhance the traveler journey, we’re proud to partner with Portland International Airport (PDX) on the launch of a pilot program designed to shorten rider wait times at pickup.",
         "content": "Integrate the latest technologies with an innovative platform",
         "date": "May 02",
         "author": "ALIVE COOPER",
